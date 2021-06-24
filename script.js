@@ -1,4 +1,4 @@
-// // Object hardcode
+// Object hardcode
 
 function O_person(firstName, lastName, birthYear, address, disease){
     personObj = {
@@ -29,7 +29,7 @@ function N_person(firstName, lastName, birthYear, address, disease){
 
 N_person('Sakriya', 'Dangol', '2000', 'Kirtipur', 'Mad');
 
-// // Constructor function
+// Constructor function
 
 function Person(firstName, lastName, birthYear, address, disease){
     this.First_Name = firstName;
